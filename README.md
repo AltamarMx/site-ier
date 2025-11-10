@@ -16,19 +16,16 @@
 
 
 
-!\[esquema\_site.png](esquema\_site.png)
+![esquema\_site.png](esquema\_site.png)
 
 
 
 | Descripción | Inventario | Potencia | Comentarios |
-
 | --- | --- | --- | --- |
-
+|  |  |  |  |
 |  |  |  |  |
 
-|  |  |  |  |
-
-\- 1 @Guillermo Barrios del Valle
+1 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -68,7 +65,7 @@
 
 &nbsp;   | UPS-1/CTO-3y4 |  |  |  |
 
-\- 2 @Paulina Abril Chávez Reyes
+2 @Paulina Abril Chávez Reyes
 
 &nbsp;   
 
@@ -92,7 +89,7 @@
 
 &nbsp;   
 
-\- 3 @Natalia Ananda Ruiz Aguado
+- 3 @Natalia Ananda Ruiz Aguado
 
 &nbsp;   
 
@@ -132,7 +129,7 @@
 
 &nbsp;   | APC RBC interna |  |  | Pedir |
 
-\- 4 @Paulina Abril Chávez Reyes
+- 4 @Paulina Abril Chávez Reyes
 
 &nbsp;   
 
@@ -202,7 +199,7 @@
 
 &nbsp;   | UPS DELL 2 | 02366405 |  |  |
 
-\- 6 @Natalia Ananda Ruiz Aguado
+- 6 @Natalia Ananda Ruiz Aguado
 
 &nbsp;   
 
@@ -238,7 +235,7 @@
 
 &nbsp;   | SOLA SB Microsea 1600 Sistema de energía auxiliar |  | 1000 W | X2 |
 
-\- 7 @Guillermo Barrios del Valle
+- 7 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -254,7 +251,7 @@
 
 &nbsp;   | Tripp -lite smart pro ups | 02554394 |  |  |
 
-\- 8 @Guillermo Barrios del Valle
+- 8 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -270,7 +267,7 @@
 
 &nbsp;   |  |  |  |  |
 
-\- 9  @Guillermo Barrios del Valle
+- 9  @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -282,7 +279,7 @@
 
 &nbsp;   | micro sr - 1600 SOLA - SB |  |  |  |
 
-\- 10 @Guillermo Barrios del Valle
+- 10 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -294,7 +291,7 @@
 
 &nbsp;   |  |  |  |  |
 
-\- 11 @Guillermo Barrios del Valle
+- 11 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -306,7 +303,7 @@
 
 &nbsp;   |  |  |  |  |
 
-\- 12 @Guillermo Barrios del Valle
+- 12 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -318,7 +315,7 @@
 
 &nbsp;   |  |  |  |  |
 
-\- 13 @Guillermo Barrios del Valle
+- 13 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -330,7 +327,7 @@
 
 &nbsp;   |  |  |  |  |
 
-\- 14 @Natalia Ananda Ruiz Aguado
+- 14 @Natalia Ananda Ruiz Aguado
 
 &nbsp;   
 
@@ -342,7 +339,7 @@
 
 &nbsp;   |  | 03005844 |  | Pedir |
 
-\- 15 @Paulina Abril Chávez Reyes (revisar memo si hizo el 16)
+- 15 @Paulina Abril Chávez Reyes (revisar memo si hizo el 16)
 
 &nbsp;   
 
@@ -366,7 +363,7 @@
 
 &nbsp;   | Cisco 4400 Series ISR 4451-X |  |  |  |
 
-\- 16 @Guillermo Barrios del Valle es el 15 de memo
+- 16 @Guillermo Barrios del Valle es el 15 de memo
 
 
 
@@ -376,7 +373,7 @@
 
 |  |  |  |  |
 
-\- 17 @Guillermo Barrios del Valle
+- 17 @Guillermo Barrios del Valle
 
 
 
@@ -386,7 +383,7 @@
 
 |  |  |  |  |
 
-\- 18 @Natalia Ananda Ruiz Aguado
+- 18 @Natalia Ananda Ruiz Aguado
 
 &nbsp;   
 
@@ -428,7 +425,7 @@
 
 &nbsp;   | APC Smart-UPC 3000 |  | 2700 W | X3 \[https://www.ienergia.mx/producto/smart-ups-apc-smt3000c/](https://www.ienergia.mx/producto/smart-ups-apc-smt3000c/) |
 
-\- 19 @Guillermo Barrios del Valle
+- 19 @Guillermo Barrios del Valle
 
 
 
@@ -438,7 +435,7 @@
 
 |  |  |  |  |
 
-\- 20 @Guillermo Barrios del Valle
+- 20 @Guillermo Barrios del Valle
 
 
 
@@ -450,7 +447,7 @@
 
 
 
-\- 21 @Paulina Abril Chávez Reyes
+- 21 @Paulina Abril Chávez Reyes
 
 &nbsp;   
 
@@ -478,7 +475,7 @@
 
 &nbsp;   | POWERWARE PW9125240EBM BLK \[UPS 3 6KVA] |  |  |  |
 
-\- 22 @Guillermo Barrios del Valle
+- 22 @Guillermo Barrios del Valle
 
 &nbsp;   
 
@@ -490,7 +487,7 @@
 
 &nbsp;   |  |  |  |  |
 
-\- 23 @Guillermo Barrios del Valle
+- 23 @Guillermo Barrios del Valle
 
 
 
@@ -500,7 +497,7 @@
 
 |  |  |  |  |
 
-\- 24 @Guillermo Barrios del Valle
+- 24 @Guillermo Barrios del Valle
 
 
 
@@ -510,7 +507,7 @@
 
 |  |  |  |  |
 
-\- 25 @Guillermo Barrios del Valle
+- 25 @Guillermo Barrios del Valle
 
 
 
