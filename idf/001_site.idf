@@ -1,4 +1,4 @@
-!-Generator IDFEditor 1.54
+!-Generator IDFEditor 1.55
 !-Option SortedOrder
 
 !-NOTE: All comments with '!-' are ignored by the IDFEditor and are generated automatically.
@@ -8,7 +8,7 @@
 !-   ===========  ALL OBJECTS IN CLASS: VERSION ===========
 
 Version,
-    24.2;                    !- Version Identifier
+    25.1;                    !- Version Identifier
 
 
 !-   ===========  ALL OBJECTS IN CLASS: SIMULATIONCONTROL ===========
@@ -2268,6 +2268,14 @@ Schedule:Compact,
     Until: 24:00,            !- Field 3
     4;                       !- Field 4
 
+Schedule:Compact,
+    AlwaysOn,                !- Name
+    Fraction,                !- Schedule Type Limits Name
+    Through: 12/31,          !- Field 1
+    For: AllDays,            !- Field 2
+    Until: 24:00,            !- Field 3
+     1;                      !- Field 4
+
 
 !-   ===========  ALL OBJECTS IN CLASS: SCHEDULE:CONSTANT ===========
 
@@ -4083,6 +4091,22 @@ Shading:Building:Detailed,
     -3,                      !- Vertex 4 X-coordinate {m}
     0,                       !- Vertex 4 Y-coordinate {m}
     2.9;                     !- Vertex 4 Z-coordinate {m}
+
+
+!-   ===========  ALL OBJECTS IN CLASS: ELECTRICEQUIPMENT ===========
+
+ElectricEquipment,
+    Compu_1,                 !- Name
+    TZ_ site,                !- Zone or ZoneList or Space or SpaceList Name
+    AlwaysOn,                !- Schedule Name
+    EquipmentLevel,          !- Design Level Calculation Method
+    150,                     !- Design Level {W}
+    ,                        !- Watts per Floor Area {W/m2}
+    ,                        !- Watts per Person {W/person}
+    0,                       !- Fraction Latent
+    0.3,                     !- Fraction Radiant
+    0.2,                     !- Fraction Lost
+    Computo;                 !- End-Use Subcategory
 
 
 !-   ===========  ALL OBJECTS IN CLASS: HVACTEMPLATE:ZONE:IDEALLOADSAIRSYSTEM ===========
